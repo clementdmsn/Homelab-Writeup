@@ -126,7 +126,7 @@ Services in this zone are isolated from internal systems.
 
 ## Network topology
 
-![](images/network_architetcure.png)
+![](images/network_architecture.png)
 
 
 All traffic between network segments is routed through the firewall, which enforces security policies between zones.
