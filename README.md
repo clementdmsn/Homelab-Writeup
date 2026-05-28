@@ -340,7 +340,7 @@ A Windows client machine was successfully joined to the Active Directory domain 
 > ![](images/ip_route_for_vpn_client.png)
 
 >*VPN client access to admin subnet :*
->![[images/vpn_client_access_to_admin_subnet.png]]
+>![](images/vpn_client_access_to_admin_subnet.png)
 
 # 12. Troubleshooting and Lessons Learned
 
